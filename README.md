@@ -1,2 +1,2 @@
 # It-has-begun
-First Repo
+My first project using github! This will mostly contain coding exercises and simple apps.
